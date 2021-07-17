@@ -5,7 +5,7 @@
 <li>Computer labs</li>
 </ul></B>
 
-[computer lab4](https://github.com/NicJC/Statsmodels/blob/main/Computer%20Laboratory%204.Rmd)
+[computer lab4](https://github.com/NicJC/Statsmodels/blob/main/Computer%20Laboratory%204.R)
 
 
 
