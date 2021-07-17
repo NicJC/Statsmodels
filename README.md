@@ -1,5 +1,5 @@
 <table>
-<tr><td colspan="2">
+<tr><td colspan="4">
                                                                                                                                              
 <br>
 
